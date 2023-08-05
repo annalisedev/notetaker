@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "inquirer": "^7.3.3",
+    "uuid": "^8.3.0",
+    "v1": "^1.0.0",
+    "v4": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annalisedev/notetaker"
+  },
+  "homepage": "https://github.com/annalisedev/notetaker/blob/main/README.md"
 }
+
