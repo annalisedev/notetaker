@@ -11,7 +11,7 @@ The Github Repository can be found here: https://github.com/annalisedev/notetake
 ## Screenshots
 
 A screenshot of the homepage can be found in assets:
-![ScreenshotofApplication](./assets/ScreenshotHomepage.png.)
+![ScreenshotofApplication](./assets/ScreenshotHomepage.png)
 
 A screenshot of the notes page can be found in assets:
 ![ScreenshotofApplication](./assets/ScreenshotNotes.png)
