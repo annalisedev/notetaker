@@ -7,9 +7,8 @@ html.get('/notes', (req, res) => {
 });
 
 // GET Route for homepage
-html.get('/', (req, res) => {
+html.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, '../public/index.html'))
 });
-
 
 module.exports = html;

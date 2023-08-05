@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Costa loves Annalise",
+        "text": ":D",
+        "id": "c008"
+    },
+    {
+        "title": "Im always tired",
+        "text": "Want to take a nap?",
+        "id": "ee19"
+    },
+    {
+        "title": "test save",
+        "text": "lets see what happens",
+        "id": "9728"
     }
 ]
