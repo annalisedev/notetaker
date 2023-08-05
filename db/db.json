@@ -1,17 +1,7 @@
 [
     {
-        "title": "Costa loves Annalise",
-        "text": ":D",
+        "title": "Test Note 1",
+        "text": "Application working",
         "id": "c008"
-    },
-    {
-        "title": "Im always tired",
-        "text": "Want to take a nap?",
-        "id": "ee19"
-    },
-    {
-        "title": "test save",
-        "text": "lets see what happens",
-        "id": "9728"
     }
 ]

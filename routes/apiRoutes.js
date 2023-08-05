@@ -11,7 +11,7 @@ notes.get('/notes', (req, res) => {
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
   });
   
-  // GET Route for a specific note
+// GET Route for a specific note
   notes.get('/notes/:note_id', (req, res) => {
     const noteId = req.params.note_id;
     readFromFile('./db/db.json')
@@ -60,6 +60,5 @@ notes.post('/notes', (req, res) => {
       res.error('Error in adding note');
     }
   });
-
 
   module.exports = notes;
